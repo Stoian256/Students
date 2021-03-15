@@ -10,8 +10,8 @@ Cerinte
 
 <br>P1. Catalog studenți
 <br>• Facultatea stochează informații despre:
-<br>• studenți: <IDStudent>,<nume>
-<br>• discipline: <idDisciplină>, <nume>, <profesor>
+<br>• studenți: IDStudent,nume
+<br>• discipline: idDisciplină, nume, profesor
 <br>• Creați o aplicație care permite:
 <br>• gestionarea listei de studenți si listei de discipline.
 <br>• adaugă, șterge, modifică, lista de studenți, listă de discipline
